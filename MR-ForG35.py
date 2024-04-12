@@ -312,7 +312,7 @@ def C2():
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(8))
         user.append(nmp)
-    with ThreadPool(max_workers=50) as MR-ForG35:
+    with ThreadPool(max_workers=50) as mrforg35:
         clear()
         tl = str(len(user))
        # print(lov)       
