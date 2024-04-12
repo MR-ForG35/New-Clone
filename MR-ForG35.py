@@ -4,7 +4,7 @@
 #MR-ForG35 Kids Numbar 7
 
 #-----------------[ IMPORT-MODULE ]-------------------
-from bs4 import BeautifulSoup as sop
+from bs4 import beautifulsoup as sop
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
 from rich.table import Table as me
